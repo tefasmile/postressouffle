@@ -1,5 +1,11 @@
 GITHUB:
 
+Ventajas Github:
+1. Multiples versiones del mismo codigo
+2. Cambios Delta
+3. Base de datos atómica del codigo
+4. Historia de cada archivo
+
 clon local: se le hacen cambios
 coommit: enviar cambios y luego se sincroniza sync.
 
