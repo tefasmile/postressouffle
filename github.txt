@@ -1,0 +1,17 @@
+GITHUB:
+
+clon local: se le hacen cambios
+coommit: enviar cambios y luego se sincroniza sync.
+
+Github me permite hacer Ramas (branches)
+ - master (github.com) REPO PRINCIPAL el que va en la web
+ - master (disco duro) REPO LOCAL
+   - master
+        --MERGE (experimental-local)
+   * expermiental local
+ - master (nombre de mi servidor) REPO PRODUCCION
+
+
+EXPLICACION
+
+Repositorio: es la base de datos atomica de cambios que se sincronizan con el sistema de archivos locales en el servidor.
